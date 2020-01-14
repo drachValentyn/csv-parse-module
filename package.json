@@ -1,0 +1,29 @@
+{
+  "name": "csv-parser-json",
+  "version": "1.0.0",
+  "description": "Create test module for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drachValentyn/npm-module-GH.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "node",
+    "js",
+    "json"
+  ],
+  "author": "valentyn_d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drachValentyn/npm-module-GH/issues"
+  },
+  "homepage": "https://github.com/drachValentyn/npm-module-GH#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  }
+}
